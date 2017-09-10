@@ -92,7 +92,7 @@ exports = module.exports = __webpack_require__(31)();
 
 
 // module
-exports.push([module.i, "* {\n  --main-blue: #28284d;\n  --main-purple: #920d8d;\n  --main-lblue: #09aabe;\n  --main-orange: #ffa500;\n}\n\nhtml, body {\n  width: 100%;\n  height: 100%;\n  font-family: 'BabasNeue', sans-serif;\n  margin: 0%;\n}\n\n@font-face {\n  font-family: BabasNeue;\n  src: url(" + __webpack_require__(747) + ");\n}\n\n.bcg-blue {\n  background-color: #28284d;\n}\n\n.bcg-purple {\n  background-color: #920d8d;\n}\n\n.bcg-lightblue {\n  background-color: #09aabe;\n}\n\n.bcg-orange {\n  background-color: #ffa500;\n}\n\n.panel {\n  border-color: transparent;\n}\n\n.panel-default {\n  border-color: transparent;\n}\n", ""]);
+exports.push([module.i, "* {\n  --main-blue: #28284d;\n  --main-purple: #920d8d;\n  --main-lblue: #09aabe;\n  --main-orange: #ffa500;\n}\n\nhtml, body {\n  width: 100%;\n  height: 100%;\n  font-family: 'BabasNeue', sans-serif;\n  margin: 0%;\n}\n\nbody {\n  background-color: rgba(0, 0, 0, 0.5);\n}\n\n@font-face {\n  font-family: BabasNeue;\n  src: url(" + __webpack_require__(747) + ");\n}\n\n.bcg-blue {\n  background-color: #28284d;\n}\n\n.bcg-purple {\n  background-color: #920d8d;\n}\n\n.bcg-lightblue {\n  background-color: #09aabe;\n}\n\n.bcg-orange {\n  background-color: #ffa500;\n}\n\n.panel {\n  border-color: transparent;\n}\n\n.panel-default {\n  border-color: transparent;\n}\n", ""]);
 
 // exports
 
